@@ -16,16 +16,16 @@ This is a simple project demonstrating form validation using HTML, CSS, and Java
 ## Screenshots
 
 ### 1. Initial Form View
-![Form Screenshot 1](screenshot/screenshot1.png)
+<img src="screenshot/screenshot1.png" alt="Screenshot" height="480">
 
 ### 2. Name Validation Error
-![Form Screenshot 2](screenshot/screenshot2.png)
+<img src="screenshot/screenshot2.png" alt="Screenshot" height="480">
 
 ### 3. Email Validation Error
-![Form Screenshot 3](screenshot/screenshot3.png)
+<img src="screenshot/screenshot3.png" alt="Screenshot" height="480">
 
 ### 4. Password Validation Error
-![Form Screenshot 4](screenshot/screenshot4.png)
+<img src="screenshot/screenshot4.png" alt="Screenshot" height="480">
 
 ## How to Use
 
